@@ -3,3 +3,6 @@ Felipe	Felipe12345
 Juan	Juan456765
 Jorge	Rtyuwefg3
 jorge	FuncioNa1234
+julieta	aguA123456
+fif	Perro4567
+toy	MascoTa3
