@@ -1,8 +1,7 @@
-admin	Ab12345678
-Felipe	Felipe12345
-Juan	Juan456765
-Jorge	Rtyuwefg3
-jorge	FuncioNa1234
-julieta	aguA123456
-fif	Perro4567
-toy	MascoTa3
+admin	Ab12345678	
+Nicole	Nicolw1234	
+Jorge2	Jorge1234	
+pollo	Pollo1234	
+LEon	Ab12345678	
+Fox	Fox12345	
+Bebe	Bebe1234
