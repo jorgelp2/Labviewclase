@@ -1,0 +1,1467 @@
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:35
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:35
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:35
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:35
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:35
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:35
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:35
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:35
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:36
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:36
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:36
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:36
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:36
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:36
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:36
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:36
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:36
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:36
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:37
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:37
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:37
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:37
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:37
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:37
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:37
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:37
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:37
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:37
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:38
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:38
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:38
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:38
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:38
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:38
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:38
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:38
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:38
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:38
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:39
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:39
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:39
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:39
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:39
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:39
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:39
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:39
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:40
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:40
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:40
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:40
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:40
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:40
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:40
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:40
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:40
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:40
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:41
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:41
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:41
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:41
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:41
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:41
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:41
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:41
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:41
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:41
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:42
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:42
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:42
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:42
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:42
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:42
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:42
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:42
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:42
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:43
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:43
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:43
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:43
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:43
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:43
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:43
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:43
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:43
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:43
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:44
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:44
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:44
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:44
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:44
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:44
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:44
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:44
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:44
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:44
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:45
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:45
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:45
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:45
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:45
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:45
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:45
+Sensor 2	temperatura: 130,50	jul-27-19_TIME_23:11:45
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:45
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:45
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:46
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:46
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:46
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:46
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:46
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:46
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:46
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:46
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:46
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:46
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:47
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:47
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:47
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:47
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:47
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:47
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:47
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:47
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:48
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:48
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:48
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:48
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:48
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:48
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:48
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:48
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:48
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:48
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:49
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:49
+Sensor 3	temperatura: 130,50	jul-27-19_TIME_23:11:49
+Sensor 1	temperatura: 130,50	jul-27-19_TIME_23:11:49
+Sensor 1	temperatura: 131,48	jul-27-19_TIME_23:11:49
+Sensor 3	temperatura: 131,48	jul-27-19_TIME_23:11:49
+Sensor 3	temperatura: 131,48	jul-27-19_TIME_23:11:49
+Sensor 1	temperatura: 131,48	jul-27-19_TIME_23:11:49
+Sensor 1	temperatura: 131,48	jul-27-19_TIME_23:11:49
+Sensor 3	temperatura: 131,48	jul-27-19_TIME_23:11:49
+Sensor 3	temperatura: 131,48	jul-27-19_TIME_23:11:50
+Sensor 1	temperatura: 131,48	jul-27-19_TIME_23:11:50
+Sensor 3	temperatura: 131,48	jul-27-19_TIME_23:11:50
+Sensor 1	temperatura: 131,48	jul-27-19_TIME_23:11:50
+Sensor 1	temperatura: 131,48	jul-27-19_TIME_23:11:50
+Sensor 3	temperatura: 131,48	jul-27-19_TIME_23:11:50
+Sensor 3	temperatura: 131,48	jul-27-19_TIME_23:11:50
+Sensor 1	temperatura: 131,48	jul-27-19_TIME_23:11:50
+Sensor 3	temperatura: 131,48	jul-27-19_TIME_23:11:50
+Sensor 1	temperatura: 131,48	jul-27-19_TIME_23:11:50
+Sensor 3	temperatura: 131,48	jul-27-19_TIME_23:11:51
+Sensor 1	temperatura: 131,48	jul-27-19_TIME_23:11:51
+Sensor 3	temperatura: 131,48	jul-27-19_TIME_23:11:51
+Sensor 1	temperatura: 131,48	jul-27-19_TIME_23:11:51
+Sensor 1	temperatura: 131,48	jul-27-19_TIME_23:11:51
+Sensor 3	temperatura: 131,48	jul-27-19_TIME_23:11:51
+Sensor 1	temperatura: 131,48	jul-27-19_TIME_23:11:51
+Sensor 3	temperatura: 131,48	jul-27-19_TIME_23:11:51
+Sensor 3	temperatura: 131,48	jul-27-19_TIME_23:11:51
+Sensor 1	temperatura: 131,48	jul-27-19_TIME_23:11:51
+Sensor 3	temperatura: 131,48	jul-27-19_TIME_23:11:52
+Sensor 1	temperatura: 131,48	jul-27-19_TIME_23:11:52
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:11:52
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:11:52
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:11:52
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:11:52
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:11:52
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:11:52
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:11:52
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:11:52
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:11:53
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:11:53
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:11:53
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:11:53
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:11:53
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:11:53
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:11:53
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:11:53
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:11:53
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:11:53
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:11:54
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:11:54
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:11:54
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:11:54
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:11:54
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:11:54
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:11:54
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:11:54
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:11:54
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:11:54
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:11:55
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:11:55
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:11:55
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:11:55
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:11:55
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:11:55
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:11:55
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:11:55
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:11:55
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:11:55
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:11:56
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:11:56
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:11:56
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:11:56
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:11:56
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:11:56
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:11:56
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:11:56
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:11:56
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:11:56
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:11:57
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:11:57
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:11:57
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:11:57
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:11:57
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:11:57
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:11:57
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:11:57
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:11:57
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:11:57
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:11:58
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:11:58
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:11:58
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:11:58
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:11:58
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:11:58
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:11:58
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:11:58
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:11:58
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:11:58
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:11:59
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:11:59
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:11:59
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:11:59
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:11:59
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:11:59
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:11:59
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:11:59
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:11:59
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:11:59
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:12:00
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:12:00
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:12:00
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:12:00
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:12:00
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:12:00
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:12:00
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:12:00
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:12:00
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:12:00
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:12:01
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:12:01
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:12:01
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:12:01
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:12:01
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:12:01
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:12:01
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:12:01
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:12:02
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:12:02
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:12:02
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:12:02
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:12:02
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:12:02
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:12:02
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:12:02
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:12:02
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:12:02
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:12:03
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:12:03
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:12:03
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:12:03
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:12:03
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:12:03
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:12:03
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:12:03
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:12:03
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:12:03
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:12:04
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:12:04
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:12:04
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:12:04
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:12:04
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:12:04
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:12:04
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:12:04
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:12:04
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:12:04
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:12:05
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:12:05
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:12:05
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:12:05
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:12:05
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:12:05
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:12:05
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:12:05
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:12:05
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:12:05
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:12:06
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:12:06
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:12:06
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:12:06
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:12:06
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:12:06
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:12:06
+Sensor 2	temperatura: 134,41	jul-27-19_TIME_23:12:06
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:12:06
+Sensor 2	temperatura: 134,41	jul-27-19_TIME_23:12:06
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:12:06
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:12:07
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:12:07
+Sensor 2	temperatura: 134,41	jul-27-19_TIME_23:12:07
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:12:07
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:12:07
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:12:07
+Sensor 2	temperatura: 134,41	jul-27-19_TIME_23:12:07
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:12:07
+Sensor 2	temperatura: 134,41	jul-27-19_TIME_23:12:07
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:12:07
+Sensor 2	temperatura: 134,41	jul-27-19_TIME_23:12:07
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:12:07
+Sensor 2	temperatura: 134,41	jul-27-19_TIME_23:12:08
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:12:08
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:12:08
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:12:08
+Sensor 2	temperatura: 134,41	jul-27-19_TIME_23:12:08
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:12:08
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:12:08
+Sensor 2	temperatura: 134,41	jul-27-19_TIME_23:12:08
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:12:08
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:12:08
+Sensor 2	temperatura: 134,41	jul-27-19_TIME_23:12:08
+Sensor 2	temperatura: 134,41	jul-27-19_TIME_23:12:09
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:12:09
+Sensor 3	temperatura: 134,41	jul-27-19_TIME_23:12:09
+Sensor 1	temperatura: 134,41	jul-27-19_TIME_23:12:09
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:46:42
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:46:42
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:46:42
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:46:42
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:46:42
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:46:42
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:46:42
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:46:42
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:46:42
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:46:43
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:46:43
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:46:43
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:46:43
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:46:43
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:46:43
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:46:43
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:46:43
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:46:43
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:46:43
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:46:43
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:46:43
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:46:44
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:46:44
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:46:44
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:46:44
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:46:44
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:46:44
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:46:44
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:46:44
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:46:44
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:46:44
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:46:44
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:46:44
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:46:45
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:46:45
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:46:45
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:46:45
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:46:45
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:46:45
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:46:45
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:46:45
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:46:45
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:46:45
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:46:46
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:46:46
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:46:46
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:46:46
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:46:46
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:46:46
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:46:46
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:46:46
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:46:46
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:46:46
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:46:46
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:46:47
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:46:47
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:46:47
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:46:47
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:46:47
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:46:47
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:46:47
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:46:47
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:46:47
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:46:47
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:46:47
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:46:47
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:46:48
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:46:48
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:46:48
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:46:48
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:46:48
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:46:48
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:46:48
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:46:48
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:46:55
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:46:55
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:46:55
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:46:55
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:46:55
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:46:55
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:46:55
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:46:55
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:46:58
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:46:58
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:46:58
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:46:58
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:46:58
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:46:58
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:46:58
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:46:58
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:46:59
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:46:59
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:46:59
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:46:59
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:46:59
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:46:59
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:46:59
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:46:59
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:46:59
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:46:59
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:46:59
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:46:59
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:47:00
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:47:00
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:47:00
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:47:00
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:47:00
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:47:00
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:47:00
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:47:00
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:47:00
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:47:00
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:47:00
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:47:05
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:47:05
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:47:05
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:47:05
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:47:05
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:47:05
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:47:05
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:47:05
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:47:05
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:47:05
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:47:14
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:47:14
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:47:15
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:47:15
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:47:15
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:47:15
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:47:15
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:47:15
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:47:15
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:47:15
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:47:15
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:47:15
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:47:15
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:47:16
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:47:16
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:47:16
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:47:16
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:47:16
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:47:16
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:47:16
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:47:16
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:47:16
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:47:16
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:47:16
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:47:16
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:47:16
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:47:16
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:47:17
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:47:17
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:47:17
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:47:17
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:47:17
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:47:17
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:47:17
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:47:17
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:47:17
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:47:17
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:47:17
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:47:17
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:47:18
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:47:18
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:47:18
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:47:18
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:47:18
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:47:18
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:47:18
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:47:18
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:47:18
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:47:19
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:47:19
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:47:19
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:47:19
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:47:19
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:47:19
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:48:43
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:48:43
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:48:43
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:48:43
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:48:43
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:48:43
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:48:43
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:48:43
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:48:43
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:48:43
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:48:43
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:48:43
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:48:44
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:48:44
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:48:44
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:48:44
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:48:44
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:48:44
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:48:44
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:48:44
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:48:44
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:48:45
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:48:45
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:48:47
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:48:47
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:48:47
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:48:47
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:48:47
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:48:47
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:48:47
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:48:47
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:48:47
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:48:48
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:48:48
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:48:48
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:48:48
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:48:48
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:48:48
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:48:48
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:48:48
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:48:48
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:48:48
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:48:48
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:48:49
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:48:49
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:48:49
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:48:49
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:48:49
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:48:51
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:48:51
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:48:51
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:48:51
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:48:51
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:48:51
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:48:51
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:48:51
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:48:51
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:48:51
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:48:56
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:48:56
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:48:56
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:48:56
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:48:56
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:48:56
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:48:57
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:48:57
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:48:57
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:48:57
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:48:57
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:48:57
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:48:57
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:48:57
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:48:57
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:48:57
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:48:57
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:48:58
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:48:58
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:48:58
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:04
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:49:04
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:49:04
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:04
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:49:04
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:49:04
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:05
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:49:05
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:05
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:49:05
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:05
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:49:05
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:05
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:49:05
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:49:05
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:05
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:49:05
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:06
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:49:06
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:06
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:49:06
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:06
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:49:06
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:06
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:49:06
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:06
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:49:06
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:07
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:49:07
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:07
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:49:07
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:49:07
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:07
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:49:07
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:49:07
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:07
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:49:07
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:49:07
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:49:07
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:49:08
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:08
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:08
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:49:08
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:08
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:49:08
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:49:08
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:08
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:49:08
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:08
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:49:08
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:09
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:49:09
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:09
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:49:09
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:09
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:49:09
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:09
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:49:09
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:09
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:49:09
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:10
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:49:10
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:49:10
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:10
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:49:10
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:49:10
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:10
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:49:10
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:10
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:49:10
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:49:10
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:11
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:49:11
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:11
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:49:11
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:49:11
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:11
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:49:11
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:49:11
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:11
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:49:11
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:11
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:49:11
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:49:11
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:12
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:49:12
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:12
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:49:12
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:49:12
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:49:12
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:12
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:49:12
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:12
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:49:12
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:49:12
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:12
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:49:12
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:13
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:49:13
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:13
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:49:13
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:13
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:49:13
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:13
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:49:13
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:13
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:49:13
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:49:14
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:49:14
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:14
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:14
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:49:14
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:49:14
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:49:14
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:14
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:14
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:49:14
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:49:14
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:14
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:15
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:49:15
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:15
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:49:15
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:15
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:49:15
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:15
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:49:15
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:15
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:49:15
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:49:15
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:16
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:49:16
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:16
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:49:16
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:16
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:49:16
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:49:16
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:49:16
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:16
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:49:16
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:16
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:49:16
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:17
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:49:17
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:49:17
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:49:17
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:49:17
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:49:17
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:49:17
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:49:17
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:49:17
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:17
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:17
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:17
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:18
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:18
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:18
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:18
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:18
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:18
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:18
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:18
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:18
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:18
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:18
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:18
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:19
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:19
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:19
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:19
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:19
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:19
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:19
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:19
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:19
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:19
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:19
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:19
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:20
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:20
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:20
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:20
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:20
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:20
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:20
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:20
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:20
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:20
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:21
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:21
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:21
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:21
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:21
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:21
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:21
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:21
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:21
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:21
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:25
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:25
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:27
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:27
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:27
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:27
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:27
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:27
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:27
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:27
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:27
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:27
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:27
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:28
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:28
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:28
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:28
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:28
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:28
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:28
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:28
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:28
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:28
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:28
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:29
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:29
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:29
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:29
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:29
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:29
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:29
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:29
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:29
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:29
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:29
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:29
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:29
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:30
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:30
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:30
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:30
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:30
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:30
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:30
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:30
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:30
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:30
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:31
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:31
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:31
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:31
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:31
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:31
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:31
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:31
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:31
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:31
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:32
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:32
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:32
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:32
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:32
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:32
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:32
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:32
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:32
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:32
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:32
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:33
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:33
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:33
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:33
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:33
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:33
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:33
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:33
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:33
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:33
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:33
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:34
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:34
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:34
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:34
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:34
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:34
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:34
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:34
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:34
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:34
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:34
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:35
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:35
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:35
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:35
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:35
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:35
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:35
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:35
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:35
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:35
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:36
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:36
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:36
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:36
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:36
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:36
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:36
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:36
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:36
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:36
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:36
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:36
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:37
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:37
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:37
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:37
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:37
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:37
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:37
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:37
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:37
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:37
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:38
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:38
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:38
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:38
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:38
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:38
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:38
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:38
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:38
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:38
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:39
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:39
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:39
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:39
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:39
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:39
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:39
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:39
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:39
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:39
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:39
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:40
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:40
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:40
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:40
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:40
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:40
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:40
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:40
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:40
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:40
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:40
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:40
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:41
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:41
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:41
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:41
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:41
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:41
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:41
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:53
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:53
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:53
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:53
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:53
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:53
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:53
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:54
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:54
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:54
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:54
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:54
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:54
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:54
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:54
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:54
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:55
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:55
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:55
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:55
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:55
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:55
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:55
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:55
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:55
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:55
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:55
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:56
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:56
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:56
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:56
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:56
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:56
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:56
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:56
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:56
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:56
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:57
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:57
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:57
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:57
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:57
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:57
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:57
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:57
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:57
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:57
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:57
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:57
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:57
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:58
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:58
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:58
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:58
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:58
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:58
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:58
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:58
+Lm35_2s2	temperatura: 120,72	jul-27-19_TIME_23:49:58
+Lm35_3 3	temperatura: 117,30	jul-27-19_TIME_23:49:58
+Lm35_1 1	temperatura: 134,41	jul-27-19_TIME_23:49:58
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:02
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:03
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:03
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:03
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:03
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:03
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:04
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:04
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:04
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:04
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:04
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:05
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:05
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:05
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:05
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:05
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:06
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:06
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:06
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:06
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:06
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:07
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:07
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:07
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:07
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:08
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:08
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:08
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:08
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:08
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:09
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:09
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:09
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:09
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:09
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:10
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:10
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:10
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:10
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:10
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:11
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:11
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:11
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:11
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:11
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:12
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:12
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:12
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:12
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:12
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:13
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:13
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:13
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:13
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:13
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:14
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:14
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:14
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:14
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:14
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:51:15
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:51:15
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:15
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:15
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:15
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:15
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:16
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:16
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:16
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:16
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:16
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:17
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:17
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:17
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:51:17
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:51:20
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:51:20
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:51:20
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:51:20
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:51:21
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:51:21
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:51:21
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:51:21
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:51:24
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:51:24
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:51:25
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:51:25
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:51:25
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:51:25
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:51:25
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:51:25
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:51:25
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:51:25
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:51:25
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:51:25
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:51:26
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:51:26
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:51:26
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:51:26
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:51:26
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:51:26
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:51:26
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:51:26
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:51:27
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:51:27
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:51:27
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:51:27
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:51:27
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:51:27
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:51:27
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:51:27
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:51:27
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:51:27
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:51:27
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:51:27
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:51:28
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:51:28
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:51:29
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:51:29
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:51:29
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:51:29
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:51:30
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:51:30
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:51:30
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:51:30
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:51:30
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:51:30
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:51:30
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:51:30
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:51:30
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:51:30
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:51:30
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:51:30
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:51:31
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:51:31
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:51:31
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:51:31
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:51:31
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:51:31
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:51:31
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:51:31
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:51:31
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:51:32
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:51:32
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:51:32
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:51:32
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:51:32
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:51:32
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:51:32
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:51:32
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:51:32
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:51:32
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:51:32
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:51:32
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:51:33
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:51:33
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:51:33
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:51:33
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:51:33
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:51:33
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:51:33
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:51:33
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:51:34
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:51:34
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:51:34
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:51:34
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:51:34
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:51:34
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:51:34
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:51:34
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:51:34
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:51:34
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:51:35
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:51:35
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:51:35
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:51:35
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:51:35
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:51:35
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:53:24
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:53:24
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:53:24
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:53:24
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:53:24
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:53:24
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:53:24
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:53:24
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:53:24
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:53:24
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:53:25
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:53:25
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:53:25
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:53:25
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:53:25
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:53:25
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:53:25
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:53:25
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:53:25
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:53:26
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:53:26
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:53:26
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:53:26
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:53:26
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:53:26
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:53:26
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:53:26
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:53:26
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:53:26
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:53:26
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:53:26
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:53:26
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:53:26
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:53:27
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:53:27
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:27
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:27
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:27
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:27
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:28
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:28
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:28
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:28
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:28
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:29
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:29
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:29
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:29
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:29
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:30
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:30
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:30
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:30
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:30
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:31
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:31
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:31
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:31
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:31
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:32
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:32
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:32
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:32
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:32
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:33
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:33
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:33
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:33
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:33
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:34
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:34
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:34
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:34
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:34
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:35
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:35
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:35
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:35
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:35
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:36
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:36
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:36
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:36
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:36
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:37
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:37
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:37
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:37
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:37
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:38
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:38
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:38
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:53:38
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:53:38
+Lm35_1 1	temperatura: 0,00	jul-27-19_TIME_23:53:38
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:38
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:39
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:39
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:39
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:39
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:39
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:39
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:39
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:39
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:39
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:39
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:40
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:40
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:40
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:40
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:40
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:40
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:40
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:40
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:41
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:41
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:41
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:41
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:41
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:41
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:41
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:41
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:41
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:41
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:42
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:42
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:42
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:42
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:42
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:42
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:42
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:42
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:42
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:42
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:43
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:43
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:43
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:43
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:43
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:43
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:43
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:43
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:43
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:44
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:44
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:44
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:44
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:44
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:44
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:44
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:44
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:44
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:45
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:45
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:45
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:45
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:45
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:45
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:45
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:45
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:46
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:46
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:46
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:46
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:46
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:46
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:46
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:46
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:46
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:46
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:47
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:53:47
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:53:47
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:47
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:47
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:47
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:47
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:47
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:48
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:48
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:48
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:48
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:48
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:48
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:48
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:48
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:49
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:49
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:49
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:49
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:49
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:49
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:49
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:49
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:50
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:50
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:50
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:50
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:50
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:50
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:50
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:50
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:50
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:50
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:51
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:51
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:51
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:51
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:51
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:51
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:51
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:51
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:51
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:51
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:52
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:52
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:52
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:52
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:52
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:52
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:52
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:52
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:52
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:53
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:53
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:53
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:53
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:53
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:53
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:54
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:54
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:54
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:54
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:54
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:54
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:54
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:54
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:54
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:55
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:55
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:55
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:55
+Lm35_3 3	temperatura: 0,00	jul-27-19_TIME_23:53:55
+Lm35_2s2	temperatura: 0,00	jul-27-19_TIME_23:53:55
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:55
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:55
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:55
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:55
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:56
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:56
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:56
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:56
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:56
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:56
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:56
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:56
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:57
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:57
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:57
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:57
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:57
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:57
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:57
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:57
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:58
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:58
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:58
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:58
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:58
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:58
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:58
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:58
+Lm35_3 3	temperatura: 65,49	jul-27-19_TIME_23:53:59
+Lm35_1 1	temperatura: 28,35	jul-27-19_TIME_23:53:59
